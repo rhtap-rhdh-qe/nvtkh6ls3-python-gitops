@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: nvtkh6ls3-python-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/nvtkh6ls3-python
